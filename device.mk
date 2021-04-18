@@ -95,10 +95,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     CustomDoze
 
-# QKsms
-PRODUCT_PACKAGES += \
-    qksms
-
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
